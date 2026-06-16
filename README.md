@@ -39,6 +39,4 @@ https://your-sgtm-domain.com/orders-create
 
 Shakil Ahmed Samim
 
-Website: https://shakilas.com
-
 GitHub: https://github.com/shakilahmedsamim
