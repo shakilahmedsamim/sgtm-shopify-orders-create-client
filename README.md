@@ -38,5 +38,3 @@ https://your-sgtm-domain.com/orders-create
 ## Author
 
 Shakil Ahmed Samim
-
-GitHub: https://github.com/shakilahmedsamim
